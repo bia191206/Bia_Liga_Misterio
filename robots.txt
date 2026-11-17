@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bia191206.github.io/Bia_Liga_Misterio/sitemap.xml
